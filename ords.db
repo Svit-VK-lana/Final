@@ -1,0 +1,2 @@
+Query used to create this table
+CREATE TABLE 'orders' ('id' INTEGER PRIMARY KEY NOT NULL,'name' TEXT,'type' TEXT,'date' NUMERIC DEFAULT CURRENT_DATE,'dedline' NUMERIC,'contact' TEXT,'price' REAL,'status' TEXT,'comment' TEXT);
