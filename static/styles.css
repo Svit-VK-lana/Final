@@ -1,0 +1,92 @@
+#name
+{
+    color: blue;
+    font-family: monospace;
+    font-size: 18px;
+    opacity: 0.6;
+    text-emphasis: underline;
+}
+.box
+{
+    background: url(../static/img/IMG_20191204_153459-EFFECTSss.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.boxa
+{
+    background: url(../static/img/IMG_20191204_153459-EFFECTSaa.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.boxo
+{
+    background: url(../static/img/IMG_20191129_122743.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+.boxno
+{
+    background: url(../static/img/IMG_20220806_131636.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+.mystyle
+{
+    font-family: Helvetica, sans-serif;
+    color: blue;
+}
+h2
+{
+    opacity: 0.8;
+}
+p
+{
+    opacity: 1.8;;
+}
+.rounded-img
+{
+    width: 28%;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+}
+h4
+{
+    color: rgb(255,255,255);
+    opacity: 0.9;
+    font-size: 25px;
+}
+h3
+{
+    color:rgb(120,0,0);
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    opacity: 0.95;
+    text-emphasis: underline;
+}
+.bg-video
+{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+h5
+{
+    opacity: 0.85;
+}
